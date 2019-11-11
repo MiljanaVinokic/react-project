@@ -1,5 +1,5 @@
 # react-project 
-face recognition added - using clarifai api
+face recognition added - using *CLARIFAI API*
 
 1. npm install
 2. npm start
