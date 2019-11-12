@@ -1,1 +1,6 @@
-# react-project
+# react-project 
+face recognition included - using *CLARIFAI API*
+
+1. npm install
+2. npm start
+3. goto-->http://localhost:3000/
