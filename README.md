@@ -1,5 +1,6 @@
-clarifai face detection api
-postgreSQL database
+*clarifai face detection api*
+
+*postgreSQL database*
 
 
 
