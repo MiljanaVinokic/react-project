@@ -12,13 +12,13 @@ import './App.css';
 
 //You must add your own API key here from Clarifai.
 const app = new Clarifai.App({
- apiKey: 'YOUR_API_HERE'
+ apiKey: '4c947915ccb9417695e74a2f183111b6'
 });
 
 const particlesOptions = {
   particles: {
     number: {
-      value: 30,
+      value: 120,
       density: {
         enable: true,
         value_area: 800
